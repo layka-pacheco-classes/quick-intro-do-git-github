@@ -10,16 +10,19 @@
 
 - _GitHub_ is a way to use the same power of _Git_ with an user-friendly interface. It is used across the _Science_ world and beyond to collaborate and maintain the history of projects.
 
-## Getting Started:
+## Getting Started | Instalations:
 
-Please download & install [_Git_](https://github.com/layka-pacheco) on your machine.
-- Make sure to download the specific version for your operating system.    
-- Do not be shy and just say **Next**, **Next**, **Next** (...).
-- You may want to reboot your system after the installation is completed.
-#
+> Please download & install [_Visual Studio Code_](https://code.visualstudio.com/) on your machine.  
+> Please download & install [_Git_](https://git-scm.com/downloads) on your machine.  
+> Please download & install [_GitHub Desktop_](https://desktop.github.com/) on your machine.
 
-Please download & install [_GitHub Desktop_](https://desktop.github.com/) on your machine.
-- Make sure to download the specific version for your operating system.
+- Make sure to download the specific versions for your operating system.    
+- Do not be shy and just say **Next**, **Next** (...) **Next** (when needed).
+- You may want to reboot your system after these installations are completed.
+
+
+
+
 
 
 ### Repositories
