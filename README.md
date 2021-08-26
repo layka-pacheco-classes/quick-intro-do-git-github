@@ -15,38 +15,42 @@
 
 ## Getting Started | Instalations:
 
-1. Please download & install [_Visual Studio Code_](https://code.visualstudio.com/) on your machine.
-2. Please download & install [_Git_](https://git-scm.com/downloads) on your machine.  
-3. Please download & install [_GitHub Desktop_](https://desktop.github.com/) on your machine. (**Optional**)
+1. If you do not have one already, please create a [GitHub Account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+2. Please download & install [_Visual Studio Code_](https://code.visualstudio.com/) on your machine.
+3. Please download & install [_Git_](https://git-scm.com/downloads) on your machine.  
+4. Please download & install [_GitHub Desktop_](https://desktop.github.com/) on your machine. (**Optional**)
 
 NOTES:
 
+- Do take sometime to mull over the GitHub user name you will choose. This is important because you want people to be able to find your GitHub Account with ease, and 
 - Make sure to download the specific versions for your operating system.    
 - Do not be shy and just say **Next**, **Next** (...) **Next** (when needed).
 - You may want to reboot your system after these installations are completed.
-- Instead of _VSC_ you would use [_Atom_](https://atom.io/), but I would largely favour _VSC_ over it.
+- Instead of _VSC_ you could use [_Atom_](https://atom.io/), but I would largely favour _VSC_ over it.
+***
 
+## 💻 GitHub Jargon To Know
 
 ### Repositories
 
-A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history. You can work within a repository alone or **invite others to collaborate with you on those files**.
+A repository is where your project work happens -- think of it as your project folder (I myself like to have one for each individual study/article I work on). A _repository_ contains all of your project’s files and revision history. You can work within a repository alone or **invite others to collaborate with you on those files**. You can find an example of a repository [here](https://github.com/g-pacheco/FeralPigeonGenomics). Take some time to navigate through and get yourself familiaried. 
 
 ### Cloning 
 
-When a repository is created with GitHub, it is stored remotely in Narnia (aka The ☁️). You can clone a repository to create a local copy on your computer and then use Git to sync the two. This makes it easier to fix issues, add or remove files, and push larger commits (comments on changes). You can also use the editing tool of your choice as opposed to the GitHub User Interface (this page you are looking at right now). Cloning a repository also pulls down all the repository data that GitHub has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project **and then realize you liked a previous version more**. 
-To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
+When a _repository_ is created with _GitHub_, it is stored remotely in Narnia (aka The ☁️). You can clone a _repository_ to create a local copy on your computer (your Precious!) and then use _Git_ to sync the two. This makes it easier to fix issues add/or remove files as well as add larger commits (your comments on specific changes your have made). You can also use the editing tool of your choice (like _VSC_) as opposed to the _GitHub User Interface_ (this page you are looking at right now). Cloning a repository also pulls down all the repository data that _GitHub_ has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project **and then realize you liked a previous version more**. To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
 ### Committing & Pushing
 
-**Committing** & **Pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you are  ready to share it. You can make a commit when you have made changes to your project that you want to _checkpoint_. You can also add a helpful _commit message_ to remind yourself or your teammates what work you did (e.g. “I changed the colour of the samples' names.”).
+**Committing** & **Pushing** are how you can add the changes you made on your local machine to the remote repository in _GitHub_. That way your peer scientists can see your latest work when you are ready to share it. You can make a commit when you have made changes to your project that you want to _checkpoint_. You can also add a helpful _commit message_ to remind yourself or your teammates what work you did (e.g. “I changed the colour of the samples' names.”).
 
-Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you will get used to it 🙂
+Once you have a commit or multiple commits that you are ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel odd at first, but I promise you will get used to it 🙂
+***
 
 ## 💻 GitHub Jargon To Know 
 
 ### Repositories
  
-We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you are logged in to see it!
+We mentioned repositories already, they are where your project work happens, but let us talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you are logged in to see it!
 
 Repositories also contain **README**s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. 😄 
 To learn more about repositories read ["Creating, Cloning, and Archiving Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and ["About README's"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
@@ -66,7 +70,7 @@ To learn more about pull requests, read ["About Pull Requests"](https://docs.git
 ### Issues
 Issues are a way to track enhancements, tasks, or bugs for your work on GitHub. Issues are a great way to keep track of all the tasks you want to work on for your project and let others know what you plan to work on. You can also use issues to tell a favorite open source project about a bug you found or a feature you think would be great to add!
 
-For larger projects, you can keep track of many issues on a project board. GitHub Projects help you organize and prioritize your work and you can read more about them [in this "About Project boards document](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards). You likely won’t need a project board for your assignments, but once you move on to even bigger projects, they’re a great way to organize your team’s work!
+For larger projects, you can keep track of many issues on a project board. GitHub Projects help you organize and prioritize your work and you can read more about them [in this "About Project boards document](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards). You likely won’t need a project board for your assignments, but once you move on to even bigger projects, they are a great way to organize your team’s work!
 You can also link together pull requests and issues to show that a fix is in progress and to automatically close the issue when someone merges the pull request.
 To learn more about issues and linking them to your pull requests, read ["About Issues"](https://docs.github.com/en/github/managing-your-work-on-github/about-issues). 
 
@@ -98,24 +102,17 @@ To learn more about following users, read ["Following People"](https://docs.gith
 
 GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
 
-You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be. 
-
-## 📝 Optional Next Steps 
-
-* Open a pull request and let your teacher know that you’ve finished this course.  
-* Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
-* Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
-* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be.
 
 
 ## 📚  Additional Resources
  
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+* [A Short Video Explaining What GitHub Is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
+* [Git & GitHub Learning Resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+* [How to Use GitHub Branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
+* [Interactive Git Training Materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 * [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+* [Education Community Forum](https://education.github.community/)
+* [GitHub Community Forum](https://github.community/)
+***
