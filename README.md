@@ -1,7 +1,7 @@
 # Quick Intro to _Git_ / _GitHub_ 
 
 
-## 🤓 Course Overview & Learning Outcomes
+## 🤓 Overview & Learning Outcomes
 
 > The goal of this short intro is to briefly introduce you to both _Git_ & _GitHub_, highlighting how they can be used in _Science_. 🔬 🧪 🚀
 
