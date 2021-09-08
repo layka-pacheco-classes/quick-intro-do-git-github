@@ -70,21 +70,39 @@ To learn more about your user profile and adding and updating your profile READM
 
 ### Initial _Git_/_GitHub_ SetUp
 
-1. Please open _Git Bash_ and type the following commands:
+- Please open _Git Bash_ and type the following commands:
 
-´´´´
+```
 git config --global user.name "YOUR-USERNAME"
-´´´´
+```
 
-´´´´
+```
 git config --global user.email "YOUR-EMAIL"
-´´´´
+```
 
-### Creating A Repository  
+There are loads of more advance configurations, and you can check them [here](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration). However, having these two should get you going. Your can check that everything went through with the command below:
 
-If you find a repository interesting or you want to keep track of it, star it! When you star a repository it’s also used as a signal to surface better recommendations on github.com/explore. If you’d like to get back to your starred repositories you can do so via your user profile. 
-To learn  more about starring repositories, read ["Saving Repositories with Stars"](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars). 
+```
+git config --list
+```
 
+### Creating A Repository & More
+
+Alrigh -- I believe you all set and now you just follow what I will be presenting on the screen. Some of the command we will be using are shown below, but I reckon that it will be straightforward to you to imitate what I will be doing.
+
+  
+```
+git add .
+```
+
+```
+git commit -m "YOUR-COMMIT"
+```
+
+```
+git push
+```
+#
 
 ## 📚  Additional Resources
  
