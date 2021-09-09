@@ -13,16 +13,16 @@
 - _GitHub_ is a way to use the same power of _Git_ with an user-friendly interface. It is used across the _Science_ world and beyond to collaborate and maintain the history of projects.
 
 
-## Getting Started | Instalations:
+## Getting Started | Installations:
 
 1. If you do not have one already, please create a [GitHub Account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)  
 
 ¡CAUTION! ✋  
 
-Two things here. Frist, take a while to mull over your _GitHub User Name_ due to a few factors:  
+Two things here. Frist, take a while to mull over your _GitHub Username_ due to a few factors:  
 
-* You want to have something that others can remember (and associte to your name) easily. Besides, it is possible to host a webpage on GitHub for free (usually, this is a paid service). However, the domain of this page needs to be YOUR-USER-NAME.github.io. Thus, it advisable that you choose a user name with that possibility in mind. [Here](https://g-pacheco.github.io/) is my personal webpage I host on _GitHub_, and [here](https://mcruf.github.io/) and [here](https://jcerca.github.io/) are extra examples.  
-* If you are are PhD student, I would really encorage you to apply for a GitHub Student account though this [link](https://education.github.com/pack). It is totally free, and it will give you some extra powers (usually given to paid account). So, I really recommend that you use your student status while you still can 😗 
+* You want to have something that others can remember (and associate to your name) easily. Besides, it is possible to host a webpage on GitHub for free (usually, this is a paid service). However, the domain of this page needs to be YOUR-USER-NAME.github.io. Thus, it is advisable that you choose a username with that possibility in mind. [Here](https://g-pacheco.github.io/) is my personal webpage I host on _GitHub_, and [here](https://mcruf.github.io/) and [here](https://jcerca.github.io/) are extra examples.  
+* If you are a PhD student, I would really encourage you to apply for a GitHub Student account through this [link](https://education.github.com/pack). It is totally free, and it will give you some extra powers (usually given to a paid account). So, I really recommend that you use your student status while you still can 😗. 
 
 2. Please download & install [_Visual Studio Code_](https://code.visualstudio.com/) on your machine.
 3. Please download & install [_Git_](https://git-scm.com/downloads) on your machine.  
@@ -43,7 +43,7 @@ A repository is where your project work happens -- think of it as your project f
 
 ### Cloning 
 
-When a _repository_ is created with _GitHub_, it is stored remotely in Narnia (aka The ☁️). You can clone a _repository_ to create a local copy on your computer (your Precious!) and then use _Git_ to sync the two. This makes it easier to fix issues add/or remove files as well as add larger commits (your comments on specific changes your have made). You can also use the editing tool of your choice (like _VSC_) as opposed to the _GitHub User Interface_ (this page you are looking at right now). Cloning a repository also pulls down all the repository data that _GitHub_ has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project **and then realize you liked a previous version more**. To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
+When a _repository_ is created with _GitHub_, it is stored remotely in Narnia (aka The ☁️). You can clone a _repository_ to create a local copy on your computer (your Precious!) and then use _Git_ to sync the two. This makes it easier to fix issues add/or remove files as well as add larger commits (your comments on specific changes you have made). You can also use the editing tool of your choice (like _VSC_) as opposed to the _GitHub User Interface_ (this page you are looking at right now). Cloning a repository also pulls down all the repository data that _GitHub_ has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project **and then realize you liked a previous version more**. To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
 ### Committing & Pushing
 
@@ -54,7 +54,7 @@ Once you have a commit or multiple commits that you are ready to add to your rep
 
 ### Using _Markdown_ on GitHub 
 
-_GitHub_ uses a super simple language called Markdown. If you are not familiarised with it, you can have a good idea of how it works [here](https://guides.github.com/features/mastering-markdown/). To learn more about using _GitHub_’s flavor of markdown, please read ["Basic Writing and Formatting Syntax"](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
+_GitHub_ uses a super simple language called Markdown. If you are not familiar with it, you can have a good idea of how it works [here](https://guides.github.com/features/mastering-markdown/). To learn more about using _GitHub_’s flavor of markdown, please read ["Basic Writing and Formatting Syntax"](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
 
 ### Forks
 
@@ -80,7 +80,7 @@ git config --global user.name "YOUR-USERNAME"
 git config --global user.email "YOUR-EMAIL"
 ```
 
-There are loads of more advance configurations, and you can check them [here](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration). However, having these two should get you going. Your can check that everything went through with the command below:
+There are loads of more advanced configurations, and you can check them [here](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration). However, having these two should get you going. Your can check that everything went through with the command below:
 
 ```
 git config --list
@@ -88,7 +88,7 @@ git config --list
 
 ### Creating A Repository & More
 
-Alrigh -- I believe you all set and now you just follow what I will be presenting on the screen. Some of the command we will be using are shown below, but I reckon that it will be straightforward to you to imitate what I will be doing.
+All right -- I believe you all set and now you just follow what I will be presenting on the screen. Some of the commands we will be using are shown below, but I reckon that it will be straightforward to you to imitate what I will be doing.
 
   
 ```
@@ -104,7 +104,7 @@ git push
 ```
 #
 
-## 📚  Additional Resources
+## 📚 Additional Resources
  
 * [A Short Video Explaining What GitHub Is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git & GitHub Learning Resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
