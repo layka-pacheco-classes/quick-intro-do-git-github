@@ -90,7 +90,14 @@ git config --list
 
 All right -- I believe you all set and now you just follow what I will be presenting on the screen. Some of the commands we will be using are shown below, but I reckon that it will be straightforward to you to imitate what I will be doing.
 
-  
+#### Options for _Science_:
+
+Example of a respository [with a Wiki](https://github.com/g-pacheco/PigeonBreedsGenomics/wiki). 
+
+Example of a repository [without an Wiki](https://github.com/fgvieira/ngsDist).
+
+### Most used commands:
+
 ```
 git add .
 ```
