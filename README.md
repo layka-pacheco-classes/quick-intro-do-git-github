@@ -94,7 +94,7 @@ All right -- I believe you all set and now you just follow what I will be presen
 
 Example of a respository [with a Wiki](https://github.com/g-pacheco/PigeonBreedsGenomics/wiki). 
 
-Example of a repository [without an Wiki](https://github.com/fgvieira/ngsDist).
+Example of a repository [without a Wiki](https://github.com/fgvieira/ngsDist).
 
 ### Most used commands:
 
