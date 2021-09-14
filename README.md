@@ -52,7 +52,7 @@ When a _repository_ is created with _GitHub_, it is stored remotely in Narnia (a
 Once you have a commit or multiple commits that you are ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel odd at first, but I promise you will get used to it 🙂
 ***
 
-### Using _Markdown_ on GitHub 
+### Using _Markdown_ on _GitHub_ 
 
 _GitHub_ uses a super simple language called Markdown. If you are not familiar with it, you can have a good idea of how it works [here](https://guides.github.com/features/mastering-markdown/). To learn more about using _GitHub_’s flavor of markdown, please read ["Basic Writing and Formatting Syntax"](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
 
@@ -64,9 +64,9 @@ To learn more about forking, read ["Fork a repo"](https://docs.github.com/en/git
 ### Your user profile
 
 Your profile page tells people the story of your work through the repositories you are interested in, the contributions you have made, and the conversations you have had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let other researchers know all about you! 
-To learn more about your user profile and adding and updating your profile README, read ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
+To learn more about your user profile and adding and updating your profile README, read ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). You can see an example of a _GitHub_ profile page [here](https://github.com/abhisheknaiidu) & [here](https://github.com/VedantKhairnar). 
 
-#### Hands-On
+## Hands-On
 
 ### Initial _Git_/_GitHub_ SetUp
 
